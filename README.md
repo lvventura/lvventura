@@ -19,7 +19,9 @@
 
 - 👨‍💻 Como Ingeniero de Software, estoy constantemente aprendiendo y explorando nuevas tecnologías para mejorar mis habilidades.
 - 💬 Pregúntame sobre mi experiencia en Desarrollo de Aplicaciones Web y Móviles.
-- 🌱 Actualmente estoy profundizando en _[Desarrollo Web](https://www.coursera.org/browse/computer-science/web-development)_ y _[Bases de Datos](https://www.mongodb.com/developer/)_
+- 🌱 Actualmente estoy profundizando en **[Machine Learning](https://www.coursera.org/browse/data-science/machine-learning)**  
+y **[Computación en la Nube con Microsoft Azure](https://learn.microsoft.com/es-es/training/azure/)**,  
+aplicando estos conocimientos en proyectos prácticos y entornos reales.
 
 ## 🛠 &nbsp;Stack Tecnológico
 
