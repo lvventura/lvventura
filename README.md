@@ -109,13 +109,6 @@ aplicando estos conocimientos en proyectos prácticos y entornos reales.
   
  </div>
  
- ### 🏆 Trofeos del Perfil
-
-<div align=center>
- 
-[![trophy](https://github-profile-trophy.vercel.app/?username=lvventura&theme=onedark&title=-Reviews&no-frame=true&margin-w=4&margin-h=4)](https://github.com/ryo-ma/github-profile-trophy)
-  
-</div>
 
 ---
 
