@@ -85,7 +85,7 @@ aplicando estos conocimientos en proyectos prácticos y entornos reales.
  
  <div align=center>
   
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lvventura0&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lvventura&theme=github_dark)
   
  </div>
  
